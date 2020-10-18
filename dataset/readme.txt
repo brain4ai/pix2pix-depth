@@ -3,7 +3,7 @@ Descargar el dataset RGBD-Dataset:
 https://rgbd-dataset.cs.washington.edu/dataset/rgbd-scenes-v2/rgbd-scenes-v2_imgs.zip
 
 1) Descomprimir rgbd-scenes-v2 en el directorio dataset
-2) Crear la estructura de carpetas como se muestra a continuación.
+2) Crear la estructura de carpetas como se muestra a continuación. Mas detallado en: https://brain4ai.wordpress.com/2020/10/18/pix2pix-depth-2/
 
 Nos queda esta estructura de carpetas del directorio dataset:
 
